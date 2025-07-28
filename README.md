@@ -1,8 +1,8 @@
-🧠 JARVIS - Python Voice Assistant
+#🧠 JARVIS - Python Voice Assistant
 Jarvis is a powerful, voice-based virtual desktop assistant built using Python. It allows you to interact with your computer using natural spoken commands. Jarvis performs a wide variety of tasks hands-free — from web browsing to system operations, music playback, and intelligent conversations via LLM integration.
 
-📌 Features
-🎙️ Speech Recognition
+##📌 Features
+###🎙️ Speech Recognition
 Understands and processes your voice commands using speech_recognition.
 
 🔊 Text-to-Speech
